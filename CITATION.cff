@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below, and please also cite the accompanying manuscript (see preferred-citation)."
+type: software
+title: "Code for: Architectural Design Adaptation of Multi-Receptive Residual Blocks from Non-Invasive to Invasive Neural Mel-Spectrogram Reconstruction"
+authors:
+  - family-names: "Sbaih"
+    given-names: "Asma"
+    affiliation: "University of Seville; Palestine Ahliya University"
+repository-code: "https://github.com/<your-username>/<repo-name>"
+license: MIT
+version: 1.0.0
+date-released: "2026-01-01"
+keywords:
+  - sEEG
+  - brain-computer interface
+  - mel-spectrogram reconstruction
+  - architectural transfer
+  - multi-receptive residual blocks
+  - speech neuroprosthesis
+preferred-citation:
+  type: article
+  title: "Architectural Design Adaptation of Multi-Receptive Residual Blocks from Non-Invasive to Invasive Neural Mel-Spectrogram Reconstruction"
+  authors:
+    - family-names: "Sbaih"
+      given-names: "Asma"
+    - family-names: "García-Gutiérrez"
+      given-names: "Jorge"
+    - family-names: "Benavides"
+      given-names: "David"
+  journal: "Medical & Biological Engineering & Computing"
+  year: 2026
+  status: "in-review"

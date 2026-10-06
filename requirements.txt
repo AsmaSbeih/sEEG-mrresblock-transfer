@@ -1,0 +1,25 @@
+# Core scientific stack
+numpy>=1.24,<2.0
+pandas>=2.0
+scipy>=1.10
+
+# Deep learning
+torch>=2.1
+
+# Signal / audio processing
+librosa>=0.10
+pystoi>=0.4.1
+pesq>=0.0.4
+
+# Neurophysiology data I/O (NWB format)
+pynwb>=2.5
+
+# Model profiling (FLOPs / parameter counting)
+thop>=0.1.1
+
+# Plotting
+matplotlib>=3.7
+
+# Jupyter (to run the notebook)
+jupyterlab>=4.0
+ipykernel>=6.25
